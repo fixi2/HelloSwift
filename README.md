@@ -1,2 +1,0 @@
-# HelloSwift
-Swift / ios beginner
